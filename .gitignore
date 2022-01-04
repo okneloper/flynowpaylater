@@ -1,0 +1,9 @@
+.idea
+phpunit.xml
+.phpunit*.cache
+
+vendor/
+
+tests/coverage/
+
+
